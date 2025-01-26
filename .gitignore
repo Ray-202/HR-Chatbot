@@ -1,0 +1,27 @@
+# Virtual Environment
+venv/
+
+# Compiled Python files
+*.pyc
+__pycache__/
+
+# MySQL Configuration Files (if any)
+# Example: local_settings.py
+local_settings.py
+
+# MacOS system files
+.DS_Store
+
+# Environment variables
+.env
+
+# IDE configurations
+.vscode/
+.idea/
+
+# Django specific
+media/
+staticfiles/
+
+# Logs
+*.log
